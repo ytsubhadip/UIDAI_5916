@@ -1,0 +1,190 @@
+state,district
+Andaman And Nicobar Islands,"['Nicobar' 'South Andaman' 'Andamans' 'North And Middle Andaman'
+ 'Nicobars']"
+Andhra Pradesh,"['Spsr Nellore' 'Visakhapatanam' 'Prakasam' 'Krishna' 'Kurnool'
+ 'Mahabub Nagar' 'Mahbubnagar' 'Medak' 'N. T. R' 'Nalgonda' 'Nandyal'
+ 'Nellore' 'Palnadu' 'Rangareddi' 'Sri Potti Sriramulu Nellore'
+ 'Sri Sathya Sai' 'Srikakulam' 'Tirupati' 'Visakhapatnam' 'Vizianagaram'
+ 'Warangal' 'West Godavari' 'Y. S. R' 'Adilabad' 'Alluri Sitharama Raju'
+ 'Anakapalli' 'Anantapur' 'Ananthapur' 'Ananthapuramu' 'Bapatla'
+ 'Chittoor' 'Cuddapah' 'Dr. B. R. Ambedkar Konaseema' 'East Godavari'
+ 'Eluru' 'Guntur' 'Hyderabad' 'Kakinada' 'Karimnagar' 'Khammam'
+ 'Nizamabad' 'Parvathipuram Manyam' 'Annamayya' 'K.V.Rangareddy'
+ 'K.V. Rangareddy' 'Karim Nagar' 'Mahabubnagar']"
+Arunachal Pradesh,"['West Kameng' 'Longding' 'Changlang' 'East Kameng' 'Tawang' 'West Siang'
+ 'Kurung Kumey' 'Lohit' 'Lower Dibang Valley' 'Papum Pare' 'Upper Siang'
+ 'Lower Subansiri' 'Namsai' 'Anjaw' 'East Siang' 'Kra Daadi'
+ 'Upper Subansiri' 'Kamle' 'Siang' 'Tirap' 'Shi-Yomi' 'Lower Siang'
+ 'Dibang Valley' 'Leparada' 'Pakke Kessang']"
+Assam,"['Marigaon' 'Kokrajhar' 'Nagaon' 'Dibrugarh' 'Udalguri' 'Chirang' 'Kamrup'
+ 'Dhubri' 'Dhemaji' 'Tinsukia' 'Barpeta' 'Sonitpur' 'Baksa' 'Lakhimpur'
+ 'Bongaigaon' 'Hojai' 'Darrang' 'North Cachar Hills' 'Jorhat'
+ 'Kamrup Metro' 'Goalpara' 'Golaghat' 'Nalbari' 'Cachar'
+ 'West Karbi Anglong' 'Hailakandi' 'South Salmara Mankachar' 'Charaideo'
+ 'Sibsagar' 'Karbi Anglong' 'Karimganj' 'Biswanath' 'Dima Hasao'
+ 'Sivasagar' 'Majuli' 'Bajali' 'Sribhumi' 'Tamulpur District']"
+Bihar,"['Sitamarhi' 'Purbi Champaran' 'Madhubani' 'Bhagalpur' 'Patna'
+ 'Pashchim Champaran' 'Muzaffarpur' 'Munger' 'Gaya' 'Kaimur'
+ 'West Champaran' 'Purnia' 'Saran' 'East Champaran' 'Vaishali' 'Jehanabad'
+ 'Jamui' 'Gopalganj' 'Saharsa' 'Arwal' 'Katihar' 'Siwan' 'Lakhisarai'
+ 'Banka' 'Nalanda' 'Araria' 'Darbhanga' 'Nawada' 'Samastipur' 'Begusarai'
+ 'Bhojpur' 'Aurangabad' 'Buxar' 'Khagaria' 'Kishanganj' 'Madhepura'
+ 'Rohtas' 'Sheohar' 'Supaul' 'Purba Champaran' 'Purnea' 'Sheikhpura'
+ 'Sheikpura' 'Bhabua' 'Monghyr' 'Samstipur']"
+Chandigarh,['Chandigarh' 'Rupnagar']
+Chhattisgarh,"['Raipur' 'Bijapur' 'Durg' 'Sukma' 'Baloda Bazar'
+ 'Gaurella Pendra Marwahi' 'Balrampur' 'Raigarh' 'Bilaspur' 'Bastar'
+ 'Bemetara' 'Gariyaband' 'Jashpur' 'Kawardha' 'Kondagaon' 'Korba'
+ 'Manendragarh-Chirmiri-Bharatpur' 'Rajnandgaon' 'Sakti'
+ 'Sarangarh-Bilaigarh' 'Surajpur' 'Surguja' 'Balod' 'Dhamtari'
+ 'Gaurela-Pendra-Marwahi' 'Janjgir-Champa' 'Kabeerdham' 'Kanker'
+ 'Khairagarh Chhuikhadan Gandai' 'Koriya' 'Mahasamund'
+ 'Mohla-Manpur-Ambagarh Chouki' 'Mungeli' 'Narayanpur'
+ 'Dakshin Bastar Dantewada' 'Dantewada' 'Uttar Bastar Kanker'
+ 'Janjgir - Champa' 'Janjgir Champa' 'Mohalla-Manpur-Ambagarh Chowki']"
+Dadra And Nagar Haveli And Daman And Diu,['Dadra And Nagar Haveli' 'Daman' 'Diu']
+Delhi,"['West Delhi' 'North West Delhi' 'Central Delhi' 'South Delhi'
+ 'South West Delhi' 'East Delhi' 'Shahdara' 'New Delhi' 'North Delhi'
+ 'North East Delhi' 'North East' 'South East Delhi' 'Najafgarh']"
+Goa,['North Goa' 'South Goa' 'Bardez']
+Gujarat,"['Banas Kantha' 'Patan' 'Vadodara' 'Dohad' 'Morbi' 'Kachchh' 'Surat'
+ 'Gir Somnath' 'Bhavnagar' 'Gandhinagar' 'Kheda' 'Sabarkantha'
+ 'Banaskantha' 'Rajkot' 'Bharuch' 'Chhotaudepur' 'Panchmahals' 'Porbandar'
+ 'Mahesana' 'Dahod' 'Devbhumi Dwarka' 'Tapi' 'Botad' 'Junagadh' 'Jamnagar'
+ 'Arvalli' 'Surendra Nagar' 'Amreli' 'Valsad' 'Anand' 'Mahisagar'
+ 'The Dangs' 'Navsari' 'Ahmedabad' 'Ahmadabad' 'Dang' 'Surendranagar'
+ 'Sabar Kantha' 'Panch Mahals' 'Narmada']"
+Haryana,"['Faridabad' 'Gurugram' 'Gurgaon' 'Mewat' 'Kaithal' 'Sonipat' 'Rohtak'
+ 'Kurukshetra' 'Nuh' 'Ambala' 'Panipat' 'Hisar' 'Bhiwani' 'Charkhi Dadri'
+ 'Fatehabad' 'Jhajjar' 'Jind' 'Karnal' 'Mahendragarh' 'Rewari' 'Sirsa'
+ 'Yamuna Nagar' 'Palwal' 'Panchkula' 'Yamunanagar']"
+Himachal Pradesh,"['Kullu' 'Bilaspur' 'Hamirpur' 'Kangra' 'Mandi' 'Sirmaur' 'Solan' 'Una'
+ 'Chamba' 'Shimla' 'Kinnaur' 'Lahul And Spiti' 'Lahaul And Spiti']"
+Jammu And Kashmir,"['Punch' 'Baramula' 'Jammu' 'Shopian' 'Doda' 'Anantnag' 'Badgam'
+ 'Bandipore' 'Budgam' 'Kargil' 'Kathua' 'Kupwara' 'Leh' 'Pulwama'
+ 'Rajouri' 'Ramban' 'Reasi' 'Samba' 'Srinagar' 'Udhampur' 'Ganderbal'
+ 'Kishtwar' 'Shupiyan' 'Kulgam' 'Bandipur' 'Rajauri']"
+Jharkhand,"['Deoghar' 'Ranchi' 'Lohardaga' 'Dumka' 'Godda' 'Pakur' 'Hazaribagh'
+ 'East Singhbhum' 'Chatra' 'Gumla' 'Khunti' 'West Singhbhum'
+ 'East Singhbum' 'Giridih' 'Dhanbad' 'Bokaro' 'Garhwa' 'Hazaribag'
+ 'Jamtara' 'Latehar' 'Palamau' 'Palamu' 'Purbi Singhbhum' 'Ramgarh'
+ 'Sahebganj' 'Seraikela-Kharsawan' 'Simdega' 'Kodarma' 'Pakaur'
+ 'Sahibganj' 'Pashchimi Singhbhum' 'Koderma']"
+Karnataka,"['Bengaluru Urban' 'Bengaluru' 'Mysuru' 'Yadgir' 'Kalaburagi'
+ 'Bangalore Rural' 'Bengaluru Rural' 'Raichur' 'Ramanagara' 'Bidar'
+ 'Vijayapura' 'Bagalkot' 'Ballari' 'Bangalore' 'Belagavi' 'Belgaum'
+ 'Bellary' 'Bijapur' 'Chamarajanagar' 'Chamrajanagar' 'Chamrajnagar'
+ 'Chickmagalur' 'Chikkaballapur' 'Chikkamagaluru' 'Chikmagalur'
+ 'Chitradurga' 'Dakshina Kannada' 'Davanagere' 'Davangere' 'Dharwad'
+ 'Gadag' 'Gulbarga' 'Hassan' 'Haveri' 'Kodagu' 'Kolar' 'Koppal' 'Mandya'
+ 'Mysore' 'Ramanagar' 'Shimoga' 'Shivamogga' 'Tumakuru' 'Tumkur' 'Udupi'
+ 'Uttara Kannada' 'Vijayanagara' 'Hasan' 'Bengaluru South']"
+Kerala,"['Kollam' 'Malappuram' 'Thiruvananthapuram' 'Ernakulam' 'Thrissur'
+ 'Kannur' 'Alappuzha' 'Idukki' 'Kasaragod' 'Kasargod' 'Kottayam'
+ 'Kozhikode' 'Palakkad' 'Pathanamthitta' 'Wayanad']"
+Ladakh,['Kargil' 'Leh']
+Lakshadweep,['Lakshadweep']
+Madhya Pradesh,"['Bhind' 'Gwalior' 'Katni' 'Ashok Nagar' 'Betul' 'Guna' 'Khargone'
+ 'Chhatarpur' 'Morena' 'Dhar' 'Jabalpur' 'Barwani' 'Shivpuri' 'Raisen'
+ 'Jhabua' 'Indore' 'Bhopal' 'Datia' 'Sagar' 'Sheopur' 'Vidisha'
+ 'Burhanpur' 'Panna' 'Khandwa' 'Satna' 'Alirajpur' 'Dewas' 'Ashoknagar'
+ 'Balaghat' 'East Nimar' 'Sehore' 'Narsinghpur' 'Hoshangabad' 'Agar Malwa'
+ 'Anuppur' 'Chhindwara' 'Damoh' 'Dindori' 'Harda' 'Maihar' 'Mandla'
+ 'Mandsaur' 'Narmadapuram' 'Narsimhapur' 'Neemuch' 'Niwari' 'Rajgarh'
+ 'Ratlam' 'Rewa' 'Seoni' 'Shahdol' 'Shajapur' 'Sidhi' 'Singrauli'
+ 'Tikamgarh' 'Ujjain' 'West Nimar' 'Mauganj' 'Umaria' 'Pandhurna']"
+Maharashtra,"['Aurangabad' 'Parbhani' 'Thane' 'Nanded' 'Nagpur' 'Jalgaon' 'Hingoli'
+ 'Ahmadnagar' 'Palghar' 'Satara' 'Raigad' 'Mumbai Suburban' 'Nandurbar'
+ 'Beed' 'Chandrapur' 'Solapur' 'Pune' 'Latur' 'Nashik' 'Yavatmal' 'Dhule'
+ 'Washim' 'Sangli' 'Buldhana' 'Amravati' 'Ahmednagar' 'Mumbai' 'Akola'
+ 'Osmanabad' 'Ahmed Nagar' 'Bhandara' 'Buldana'
+ 'Chhatrapati Sambhajinagar' 'Gadchiroli' 'Gondiya' 'Jalna' 'Kolhapur'
+ 'Mumbai City' 'Raigarh' 'Ratnagiri' 'Sindhudurg' 'Wardha'
+ 'Chatrapati Sambhaji Nagar' 'Bid' 'Dharashiv' 'Gondia' 'Ahilyanagar']"
+Manipur,"['Churachandpur' 'Bishnupur' 'Imphal West' 'Senapati' 'Tamenglong'
+ 'Imphal East' 'Thoubal' 'Ukhrul' 'Chandel' 'Kakching' 'Jiribam'
+ 'Pherzawl']"
+Meghalaya,"['East Khasi Hills' 'West Khasi Hills' 'West Jaintia Hills' 'Ri Bhoi'
+ 'West Garo Hills' 'South Garo Hills' 'North Garo Hills'
+ 'South West Khasi Hills' 'East Jaintia Hills' 'East Garo Hills'
+ 'South West Garo Hills' 'Kamrup' 'Eastern West Khasi Hills'
+ 'Jaintia Hills']"
+Mizoram,"['Champhai' 'Saiha' 'Lawngtlai' 'Lunglei' 'Kolasib' 'Aizawl' 'Mamit'
+ 'Serchhip' 'Saitual' 'Mammit' 'Khawzawl' 'Hnahthial']"
+Nagaland,"['Kohima' 'Dimapur' 'Phek' 'Longleng' 'Peren' 'Tuensang' 'Noklak'
+ 'Chumukedima' 'Mon' 'Wokha' 'Zunheboto' 'Kiphire' 'Mokokchung' 'Meluri'
+ 'Shamator' 'Niuland' 'Tseminyu']"
+Odisha,"['Nabarangapur' 'Khordha' 'Nabarangpur' 'Angul' 'Anugul' 'Balangir'
+ 'Baleswar' 'Bargarh' 'Baudh' 'Bhadrak' 'Boudh' 'Cuttack' 'Debagarh'
+ 'Dhenkanal' 'Gajapati' 'Ganjam' 'Jajpur' 'Jagatsinghapur' 'Jagatsinghpur'
+ 'Jajapur' 'Kalahandi' 'Kandhamal' 'Kendrapara' 'Kendujhar' 'Khorda'
+ 'Koraput' 'Malkangiri' 'Mayurbhanj' 'Nayagarh' 'Nuapada' 'Puri'
+ 'Rayagada' 'Sambalpur' 'Sonapur' 'Subarnapur' 'Sundargarh' 'Sundergarh'
+ 'Baleshwar' 'Jharsuguda' 'Anugal']"
+Puducherry,['Pondicherry' 'Karaikal' 'Puducherry' 'Yanam']
+Punjab,"['Amritsar' 'Ludhiana' 'Kapurthala' 'Sangrur' 'Hoshiarpur' 'Gurdaspur'
+ 'Sas Nagar' 'Patiala' 'S.A.S Nagar' 'Tarn Taran' 'Barnala' 'Bathinda'
+ 'Faridkot' 'Fatehgarh Sahib' 'Ferozepur' 'Firozpur' 'Jalandhar'
+ 'Malerkotla' 'Mansa' 'Muktsar' 'Pathankot' 'Rupnagar'
+ 'Shaheed Bhagat Singh Nagar' 'Sri Muktsar Sahib' 'Fazilka' 'Moga'
+ 'Nawanshahr']"
+Rajasthan,"['Sikar' 'Jalor' 'Jodhpur' 'Dholpur' 'Nagaur' 'Churu' 'Jaipur' 'Sirohi'
+ 'Bundi' 'Bikaner' 'Dungarpur' 'Bharatpur' 'Alwar' 'Baran' 'Karauli'
+ 'Jhalawar' 'Ajmer' 'Udaipur' 'Kota' 'Pali' 'Jaisalmer' 'Bhilwara'
+ 'Barmer' 'Jalore' 'Chittorgarh' 'Tonk' 'Hanumangarh' 'Sawai Madhopur'
+ 'Banswara' 'Chittaurgarh' 'Dausa' 'Ganganagar' 'Jhunjhunun' 'Pratapgarh'
+ 'Rajsamand' 'Jhunjhunu' 'Dhaulpur' 'Deeg' 'Balotra' 'Didwana-Kuchaman'
+ 'Salumbar' 'Beawar']"
+Sikkim,"['South Sikkim' 'West Sikkim' 'East' 'North Sikkim' 'South' 'North'
+ 'East Sikkim' 'West' 'Namchi' 'Mangan']"
+Tamil Nadu,"['Kanchipuram' 'Kancheepuram' 'Madurai' 'Thanjavur' 'Pudukkottai'
+ 'Cuddalore' 'Coimbatore' 'Salem' 'Vellore' 'Kallakurichi'
+ 'Ramanathapuram' 'Sivaganga' 'Chengalpattu' 'Chennai' 'Thiruvallur'
+ 'Ariyalur' 'Dharmapuri' 'Dindigul' 'Erode' 'Kanniyakumari' 'Kanyakumari'
+ 'Karur' 'Krishnagiri' 'Mayiladuthurai' 'Nagapattinam' 'Namakkal'
+ 'Perambalur' 'Ranipet' 'Tenkasi' 'The Nilgiris' 'Theni' 'Thiruvarur'
+ 'Thoothukkudi' 'Tiruchirappalli' 'Tirunelveli' 'Tirupattur' 'Tiruppur'
+ 'Tiruvallur' 'Tiruvannamalai' 'Villupuram' 'Viluppuram' 'Virudhunagar'
+ 'Tuticorin' 'Tirupathur' 'Tiruvarur']"
+Telangana,"['Hyderabad' 'K.V. Rangareddy' 'Medchal-Malkajgiri' 'Medchal Malkajgiri'
+ 'Ranga Reddy' 'Bhadradri Kothagudem' 'Adilabad' 'Hanumakonda' 'Jagitial'
+ 'Jangoan' 'Jayashankar Bhupalpally' 'Jogulamba Gadwal' 'Kamareddy'
+ 'Karimnagar' 'Khammam' 'Komaram Bheem' 'Mahabubabad' 'Mahabubnagar'
+ 'Mancherial' 'Medak' 'Mulugu' 'Nagarkurnool' 'Nalgonda' 'Narayanpet'
+ 'Nirmal' 'Nizamabad' 'Peddapalli' 'Rajanna Sircilla' 'Sangareddy'
+ 'Siddipet' 'Suryapet' 'Vikarabad' 'Wanaparthy' 'Warangal'
+ 'Warangal Rural' 'Warangal Urban' 'Yadadri.' 'Rangareddy' 'Jangaon'
+ 'Medchal?Malkajgiri']"
+The Dadra And Nagar Haveli And Daman And Diu,['Dadra And Nagar Haveli']
+Tripura,"['Unakoti' 'West Tripura' 'Dhalai' 'Sepahijala' 'North Tripura' 'Gomati'
+ 'Khowai' 'South Tripura']"
+Uttar Pradesh,"['Kanpur Nagar' 'Aligarh' 'Bahraich' 'Firozabad' 'Maharajganj' 'Ghaziabad'
+ 'Gautam Buddha Nagar' 'Lucknow' 'Agra' 'Unnao' 'Saharanpur' 'Jaunpur'
+ 'Gorakhpur' 'Bulandshahr' 'Mathura' 'Banda' 'Kheri' 'Budaun'
+ 'Kanpur Dehat' 'Varanasi' 'Baghpat' 'Fatehpur' 'Etawah' 'Shamli'
+ 'Balrampur' 'Bara Banki' 'Shahjahanpur' 'Gonda' 'Bareilly' 'Sitapur'
+ 'Sultanpur' 'Shrawasti' 'Chandauli' 'Mainpuri' 'Muzaffarnagar'
+ 'Siddharthnagar' 'Ambedkar Nagar' 'Pilibhit' 'Kaushambi' 'Jalaun' 'Etah'
+ 'Meerut' 'Basti' 'Azamgarh' 'Rampur' 'Moradabad' 'Amroha' 'Bijnor'
+ 'Deoria' 'Prayagraj' 'Lalitpur' 'Hapur' 'Hathras' 'Kushinagar'
+ 'Shravasti' 'Farrukhabad' 'Hardoi' 'Ayodhya' 'Siddharth Nagar'
+ 'Barabanki' 'Sambhal' 'Jhansi' 'Kasganj' 'Kannauj' 'Kushi Nagar'
+ 'Allahabad' 'Amethi' 'Auraiya' 'Ballia' 'Bhadohi' 'Chitrakoot' 'Faizabad'
+ 'Ghazipur' 'Mahoba' 'Mau' 'Mirzapur' 'Pratapgarh' 'Rae Bareli'
+ 'Sant Kabir Nagar' 'Sant Ravidas Nagar' 'Sonbhadra' 'Bulandshahar'
+ 'Hamirpur' 'Jyotiba Phule Nagar' 'Sant Ravidas Nagar Bhadohi' 'Raebareli'
+ 'Mahrajganj' 'Bagpat']"
+Uttarakhand,"['Haridwar' 'Nainital' 'Dehradun' 'Almora' 'Bageshwar' 'Chamoli' 'Garhwal'
+ 'Pauri Garhwal' 'Pithoragarh' 'Rudraprayag' 'Tehri Garhwal'
+ 'Udham Singh Nagar' 'Uttarkashi' 'Champawat' 'Hardwar']"
+West Bengal,"['Coochbehar' 'Dinajpur Uttar' 'Darjeeling' 'Cooch Behar'
+ 'North 24 Parganas' 'Uttar Dinajpur' 'Jhargram' 'Nadia' 'Jalpaiguri'
+ 'Alipurduar' 'Malda' 'Kolkata' 'Dakshin Dinajpur' 'Kalimpong' 'Birbhum'
+ '24 Paraganas North' 'Medinipur West' 'Purba Bardhaman' 'Hooghly'
+ '24 Paraganas South' 'Howrah' 'Dinajpur Dakshin' 'Bankura' 'Barddhaman'
+ 'Bardhaman' 'Darjiling' 'East Midnapore' 'Haora' 'Koch Bihar' 'Maldah'
+ 'Murshidabad' 'North Twenty Four Parganas' 'Paschim Bardhaman'
+ 'Paschim Medinipur' 'Purba Medinipur' 'Purulia' 'Puruliya'
+ 'South 24 Parganas' 'South Dinajpur' 'South Twenty Four Parganas'
+ 'West Midnapore' 'Hugli' 'North Dinajpur' 'Hawrah' 'Medinipur'
+ 'East Midnapur' 'Hooghiy' 'West Medinipur' 'Burdwan' 'South 24 Pargana']"
